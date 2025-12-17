@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Portfolio | Super Tan</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Super Tan</h1>
+    <p>Học sinh | Luôn học hỏi & phát triển bản thân</p>
+</header>
+
+<nav>
+    <a href="#about">Giới thiệu</a>
+    <a href="#skills">Kỹ năng</a>
+    <a href="#activities">Hoạt động</a>
+    <a href="#goals">Mục tiêu</a>
+    <a href="#contact">Liên hệ</a>
+</nav>
+
+<section id="about">
+    <h2>👋 About Me</h2>
+    <p>
+        Mình là Super Tan, một học sinh yêu thích việc học tập và khám phá những điều mới.
+        Mình luôn cố gắng hoàn thiện bản thân cả về kiến thức lẫn kỹ năng.
+    </p>
+</section>
+
+<section id="skills">
+    <h2>🧠 Kỹ năng</h2>
+    <ul>
+        <li>Tự học và tư duy logic</li>
+        <li>Làm việc nhóm</li>
+        <li>Thuyết trình trước lớp</li>
+        <li>Quản lý thời gian</li>
+        <li>Tin học cơ bản</li>
+    </ul>
+</section>
+
+<section id="activities">
+    <h2>🏫 Hoạt động & Thành tích</h2>
+    <p>
+        Tham gia các hoạt động học tập trên lớp, làm việc nhóm tích cực và hoàn thành bài tập đúng hạn.
+    </p>
+</section>
+
+<section id="goals">
+    <h2>🎯 Mục tiêu</h2>
+    <p>
+        Mục tiêu của mình là cải thiện kết quả học tập, rèn luyện kỹ năng mềm
+        và chuẩn bị tốt cho định hướng học tập trong tương lai.
+    </p>
+</section>
+
+<section id="contact">
+    <h2>📩 Liên hệ</h2>
+    <p>Email: yourname@email.com</p>
+    <p>Facebook / Zalo: Đang cập nhật</p>
+</section>
+
+<footer>
+    <p>© 2025 Super Tan. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
